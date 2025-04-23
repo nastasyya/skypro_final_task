@@ -17,6 +17,6 @@
 
 Файл git.html
 1.         &copy; 202 4. SkyP
-2. <metaname="viewport" content="width=device-width, initial-scale=1">
+2.   <a href="mac.html">Вернуся на главную</a>- должно быть index
 3.    <p class="subtitle">Командная строка Windows</p>- строка отсутствует
 
