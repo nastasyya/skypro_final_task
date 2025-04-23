@@ -17,5 +17,5 @@
 
 Файл git.html
 1.         &copy; 202 4. SkyP
-2. ...
+2. <metaname="viewport" content="width=device-width, initial-scale=1">
 3. ...
