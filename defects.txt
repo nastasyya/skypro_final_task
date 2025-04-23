@@ -9,7 +9,7 @@
 Файл cmd.html.
 1.&copy; 202 4. SkyPro,должно быть "2024"
 2. <p class="location" align="center">-строка отсутствует
-3. ...
+3. <a href="../index.html">Вернуться на главную</a>-строка отсутствует
 
 Файл mac.html.
 1.         &copy; 202 4. SkyP
