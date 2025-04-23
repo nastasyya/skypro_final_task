@@ -13,7 +13,7 @@
 
 Файл mac.html.
 1.         &copy; 202 4. SkyP
-2. ...
+2. <p class="subtitle">Командная строка Windows</p>- строка отсутствует
 
 Файл git.html
 1.         &copy; 202 4. SkyP
