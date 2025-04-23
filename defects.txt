@@ -4,7 +4,7 @@
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
 2. a href="html/cmd.html">Командная строка Windos</a>- опечатка windows
 3. <a href="html/git.html">Git</a> -вместо "а" должно быть "p"
-4. ...
+4.  <p class="location" align="center">- отсутствует</p>
 
 Файл cmd.html.
 1.&copy; 202 4. SkyPro,должно быть "2024"
